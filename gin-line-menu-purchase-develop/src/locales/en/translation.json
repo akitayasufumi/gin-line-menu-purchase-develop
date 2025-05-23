@@ -1,0 +1,36 @@
+{
+  "common": {
+    "phone_number": "Phone Number",
+    "password": "Password",
+    "save": "Save",
+    "login": "Login",
+    "signUp": "Register",
+    "registration": "Registration",
+    "forgot_password": "If you forgot your login password, click here",
+    "name": "Name",
+    "email_address": "Email Address",
+    "gender": "Gender (optional)",
+    "male": "Male",
+    "female": "Female",
+    "return": "Return",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "register_success": "Registration successful!", 
+    "payment": "Payment",
+    "confirm": "Confirm"
+  },
+  "validation": {
+    "firstName_required": "First name is required.",
+    "lastName_required": "Last name is required.",
+    "email_required": "Email is required.",
+    "email_invalid": "Email must be a valid email address.",
+    "password_invalid": "Please enter a password of 8 to 32 characters including single-byte English characters, numbers and symbols.",
+    "password_required": "Please enter your password.",
+    "sex_require": "Please enter your gender.",
+    "phone_number_required": "Phone number is required.",
+    "phone_number_invalid": "Phone number must be a valid number.",
+    "valid_min_8": "Please enter more than 8 characters.",
+    "valid_max_32": "Please enter no more than 32 characters.",
+    "confirm_code_required": "Confirm code is required."
+  }
+}

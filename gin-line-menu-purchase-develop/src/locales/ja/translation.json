@@ -1,0 +1,36 @@
+{
+  "common": {
+    "phone_number": "電話番号",
+    "password": "パスワード",
+    "save": "保存する",
+    "login": "ログイン",
+    "signUp": "登録する",
+    "registration": "登録",
+    "forgot_password": "ログインパスワードを忘れた方はこちら",
+    "name": "名前",
+    "email_address": "メールアドレス",
+    "gender": "性別 (任意)",
+    "male": "男性",
+    "female": "女性",
+    "return": "戻る",
+    "first_name": "性",
+    "last_name": "名",
+    "register_success": "登録が完了しました!",
+    "payment": "支払い",
+    "confirm": "確定"
+  },
+  "validation": {
+    "firstName_required": "名を入力してください。",
+    "lastName_required": "姓を入力してください。",
+    "email_required": "メールアドレスを入力してください。",
+    "email_invalid": "メールアドレスは有効なメールアドレスである必要があります。",
+    "password_invalid": "半角英数字、記号を含む 8 文字から 32 文字までのパスワードを入力してください。",
+    "password_required": "パスワードを入力してください。",
+    "sex_require": "性別を入力してください。",
+    "phone_number_required": "電話番号を入力してください。",
+    "phone_number_invalid": "電話番号は有効な番号である必要があります。",
+    "valid_min_8": "8 文字以上入力してください。",
+    "valid_max_32": "32 文字以下で入力してください。",
+    "confirm_code_required": "確認コードが必要です。"
+  }
+}
